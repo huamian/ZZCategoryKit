@@ -927,6 +927,7 @@
 		9440FDFF569A0A7D5D6DEC620AD517D4 /* ZZCategoryKit */ = {
 			isa = PBXGroup;
 			children = (
+				FC858A6826D74965007E0C49 /* YHCategory.h */,
 				FC858A0926D747F8007E0C49 /* yhCategory */,
 				9D8AFA8397041190ED2BCE6D75A66513 /* ReplaceMe.m */,
 				D89F823BF72B2BA1F7B9FDE8EDCDBE90 /* Pod */,
@@ -1045,7 +1046,6 @@
 		FC858A0926D747F8007E0C49 /* yhCategory */ = {
 			isa = PBXGroup;
 			children = (
-				FC858A6826D74965007E0C49 /* YHCategory.h */,
 				FC858A0B26D74851007E0C49 /* NSArray+YHExtension.h */,
 				FC858A0A26D74850007E0C49 /* NSArray+YHExtension.m */,
 				FC858A0E26D7487F007E0C49 /* NSData+Common.h */,
