@@ -30,12 +30,12 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'ZZCategoryKit/YHCategory.h'
+  s.source_files = 'ZZCategoryKit/Classes/**/*'
 
 
-  s.subspec 'yhCategory' do |y|
-    y.source = 'ZZCategoryKit/yhCategory/*.{h,m}'
-  end
+#  s.subspec 'yhCategory' do |y|
+#    y.source = 'ZZCategoryKit/yhCategory/*.{h,m}'
+#  end
    
   # s.resource_bundles = {
   #   'ZZCategoryKit' => ['ZZCategoryKit/Assets/*.png']
