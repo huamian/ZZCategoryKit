@@ -41,7 +41,7 @@ TODO: Add long description of the pod here.
   #   'ZZCategoryKit' => ['ZZCategoryKit/Assets/*.png']
   # }
 
-   s.public_header_files = 'Pod/Classes/**/*'
+#   s.public_header_files = 'Pod/Classes/**/*'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
